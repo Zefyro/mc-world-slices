@@ -6,4 +6,4 @@ For the sake of a smaller world size, git is used to discard all unnecessary reg
 
 ### Coordinates and litematics
 
-- [Medieval Watermill](https://github.com/Zefyro/mc-world-slices/releases/download/1.20.1/medieval_watermill.litematic): `/tp @s 3800 80 -6000`
+- Medieval Watermill: `/tp @s 3800 80 -6000` [Video](https://www.youtube.com/watch?v=InMgQYP7KXk) [Litematic Download](https://github.com/Zefyro/mc-world-slices/releases/download/1.20.1/medieval_watermill.litematic)
